@@ -1,0 +1,10 @@
+name: CrackedBlocks-Patch
+version: 1.0.1
+main: fr.tryphoz.CrackedBlocksPatch.CrackedBlocksPatch
+author: Tryphoz
+prefix: CrackedBlocks-Patch
+description: CrackedBlocks-Patch by Tryphoz
+commands:
+  cbp:
+    usage: /cbp
+    description: Use the main command of CrackedBlocks-Patch
